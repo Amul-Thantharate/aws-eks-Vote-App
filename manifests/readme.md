@@ -20,10 +20,10 @@ clone the AWS repo
 git clone
 
 Create Nepaltech Namespace
-kubectl create ns nepaltech
+kubectl create ns amul
 
 set default namespace to nepaltech
-kubectl config set-context --current --namespace nepaltech
+kubectl config set-context --current --namespace amul
 
 ------------------
 MONGO
